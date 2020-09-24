@@ -4,7 +4,7 @@
 #
 Name     : libgovirt
 Version  : 0.3.7
-Release  : 3
+Release  : 4
 URL      : https://gitlab.gnome.org/GNOME/libgovirt/-/archive/v0.3.7/libgovirt-v0.3.7.tar.gz
 Source0  : https://gitlab.gnome.org/GNOME/libgovirt/-/archive/v0.3.7/libgovirt-v0.3.7.tar.gz
 Summary  : goVirt is a GLib binding for oVirt REST API
